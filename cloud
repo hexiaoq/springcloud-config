@@ -1,1 +1,2 @@
-i love springcloud
+conf:
+ info:"i love springcloud version=1"
